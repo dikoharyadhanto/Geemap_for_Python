@@ -1,2 +1,2 @@
-# Geemap_for_Python
+# Geemap for Python
 GEE for Python
