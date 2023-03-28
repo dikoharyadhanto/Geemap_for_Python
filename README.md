@@ -11,3 +11,9 @@
 |        |         | Convert Shapefile into GeoJSON |
 |        |         | Accessing GeoJSON Data |
 |        |         | Create Marker Cluster |
+| 3       | [Converting data formats between GeoJSON and Earth Engine](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/4c3aa8ce6d533bde5fac8b4daf0ee32ec638c5c2/003_Converting_data_formats_between_GeoJSON_and_Earth_Engine.ipynb)        | Accessing the Shapefile Data |
+|        |         | Projection |
+|        |         | Convert Shapefile into GeoJSON |
+|        |         | Accessing GeoJSON Data |
+|        |         | Input GeoJSON Data to Geemap Layer |
+|        |         | Convert Shapefile to Earth Engine Data |
