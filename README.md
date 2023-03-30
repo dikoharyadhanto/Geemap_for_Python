@@ -17,5 +17,7 @@
 |        |         | Accessing GeoJSON Data |
 |        |         | Input GeoJSON Data to Geemap Layer |
 |        |         | Convert Shapefile to Earth Engine Data |
-| 3       | [ee js to ipynb](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/0016c3105cbcf2b42cf9925cac646ae85ccdcdf2/008_ee_js_to_ipynb.ipynb)        | Convert Earth Engine JavaScripts to Python scripts |
+| 4       | [ee js to ipynb](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/0016c3105cbcf2b42cf9925cac646ae85ccdcdf2/008_ee_js_to_ipynb.ipynb)        | Convert Earth Engine JavaScripts to Python scripts |
 |        |         | Convert Earth Engine Python scripts to Jupyter Notebooks |
+| 4       | [Interactive plotting of Earth Engine data with minimal coding](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/700ff6f0c9a0f84fa3ee534697bd2ec2a0cf4dc2/005_Interactive_plotting_of_Earth_Engine_data_with_minimal_coding.ipynb)        | Adding Earth Engine Data |
+|        |         | Plotting Earth Engine Data |
