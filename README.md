@@ -24,3 +24,8 @@
 | 6       | [Using shapefiles with Earth Engine without having to upload data to GEE](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/9f96ff843d54948654c6fb2aeadb573364e8607e/006_Using_shapefiles_with_Earth_Engine_without_having_to_upload_data_to_GEE.ipynb)        | Convert SHP to EE Data |
 |        |         | Convert EE Data to SHP |
 |        |         | Convert EE Data to Other Data |
+| 7       | [Exporting Earth Engine Image and ImageCollection as GeoTIFF and Numpy array](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/5a482c96c97e25b80ccdec25308d5ec94972e0ae/007_Exporting_Earth_Engine_Image_and_ImageCollection_as_GeoTIFF_and_Numpy_array.ipynb)        | Define Region of Interest (ROI) |
+|        |         | Exporting all bands as one single image |
+|        |         | Exporting each band as one image |
+|        |         | Download an ee.ImageCollection |
+|        |         | Extract pixels as a Numpy array |
