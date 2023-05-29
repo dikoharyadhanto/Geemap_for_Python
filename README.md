@@ -21,3 +21,6 @@
 |        |         | Convert Earth Engine Python scripts to Jupyter Notebooks |
 | 5       | [Interactive plotting of Earth Engine data with minimal coding](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/0ab6f0e5c580b1761d8c28dd6fa5ff38b42ca1bf/005_Interactive_plotting_of_Earth_Engine_data_with_minimal_coding.ipynb)        | Adding Earth Engine Data |
 |        |         | Plotting Earth Engine Data |
+| 6       | [Using shapefiles with Earth Engine without having to upload data to GEE](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/9f96ff843d54948654c6fb2aeadb573364e8607e/006_Using_shapefiles_with_Earth_Engine_without_having_to_upload_data_to_GEE.ipynb)        | Convert SHP to EE Data |
+|        |         | Convert EE Data to SHP |
+|        |         | Convert EE Data to Other Data |
