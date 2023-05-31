@@ -30,3 +30,5 @@
 |        |         | Download an ee.ImageCollection |
 |        |         | Extract pixels as a Numpy array |
 | 8       | [Computing Zonal Statistics](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/25daf3a3d980ee640481660c91e09485014e301e/008_Zonal_Statistics.ipynb)        | Calculate Zonal Statistics |
+| 9       | [Calculating zonal statistics by group](https://github.com/gee-community/geemap/blob/ad8f2cfb7716c57c21cc02f5146eb5618ecdea43/examples/notebooks/13_zonal_statistics_by_group.ipynb)        | Analyzing National Land Cover Database (NLCD) |
+|        |         | Analyzing Global Land Cover |
