@@ -29,4 +29,4 @@
 |        |         | Exporting each band as one image |
 |        |         | Download an ee.ImageCollection |
 |        |         | Extract pixels as a Numpy array |
-| 8       | [Zonal Statistics](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/25daf3a3d980ee640481660c91e09485014e301e/008_Zonal_Statistics.ipynb)        | Calculate Zonal Statistics |
+| 8       | [Computing Zonal Statistics](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/25daf3a3d980ee640481660c91e09485014e301e/008_Zonal_Statistics.ipynb)        | Calculate Zonal Statistics |
