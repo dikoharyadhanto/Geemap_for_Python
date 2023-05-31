@@ -37,3 +37,4 @@
 |        |         | Customize the legend by specifying the style parameter. |
 |        |         | Add a legend to the map |
 |        |         | Add legends to a split-view map |
+| 11       | [Convert js to py](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/4f13eb4f92366ea67893b9531d04a1f6b1f06c0a/011_Convert_js_to_py.ipynb)        | Convert js to py |
