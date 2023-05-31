@@ -32,3 +32,8 @@
 | 8       | [Computing Zonal Statistics](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/25daf3a3d980ee640481660c91e09485014e301e/008_Zonal_Statistics.ipynb)        | Calculate Zonal Statistics |
 | 9       | [Calculating zonal statistics by group](https://github.com/gee-community/geemap/blob/ad8f2cfb7716c57c21cc02f5146eb5618ecdea43/examples/notebooks/13_zonal_statistics_by_group.ipynb)        | Analyzing National Land Cover Database (NLCD) |
 |        |         | Analyzing Global Land Cover |
+| 10       | [Create Legend](https://github.com/dikoharyadhanto/Geemap_for_Python/blob/27aba5b80438533a2b6d6e02cfeda01b55748f15/010_create_legend.ipynb)        | ACreate a built-in draggable and non-draggable legend |
+|        |         | Create a custom legend |
+|        |         | Customize the legend by specifying the style parameter. |
+|        |         | Add a legend to the map |
+|        |         | Add legends to a split-view map |
